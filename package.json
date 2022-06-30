@@ -1,0 +1,23 @@
+{
+  "name": "sigbar-metaverse-positioning",
+  "version": "1.0.0",
+  "description": "Multiplayer game server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Sander Paping",
+  "license": "ISC",
+  "dependencies": {
+    "ws": "^7.5.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/sigbar/sigbar-metaverse-positioning.git"
+  },
+  "bugs": {
+    "url": "https://bitbucket.org/sigbar/sigbar-metaverse-positioning/issues"
+  },
+  "homepage": "https://bitbucket.org/sigbar/sigbar-metaverse-positioning#readme"
+}
